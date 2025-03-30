@@ -5,7 +5,7 @@
 # :wrench: Tech Stack
 :speech_balloon: Language
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003168?style=flat-square&logo=SQL&logoColor=white"/>
 
 :books: Library
 
@@ -13,7 +13,7 @@
 
 :hammer: Tools
 
-<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/rstudio ide-75AADB?style=flat-square&logo=rsudio ide&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/rstudio-75AADB?style=flat-square&logo=rsudio&logoColor=white"/>
 
 :clipboard: ETC
 
