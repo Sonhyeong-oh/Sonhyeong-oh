@@ -1,5 +1,5 @@
 # ReadMe
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&textBg&Son%20Heyong%20oh&text=Github)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Son%20Heyong%20oh-nl-Github&textBg=True)
 
 # 1. Tech Stack
 Language
