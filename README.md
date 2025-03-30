@@ -1,7 +1,6 @@
 # ReadMe
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20my%20Github)
 
-<br/>
 
 # :wrench: Tech Stack
 :speech_balloon: Language
