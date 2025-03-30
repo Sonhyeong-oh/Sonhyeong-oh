@@ -21,7 +21,7 @@
 
 # :chart_with_upwards_trend: Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Son_hyeong-oh_Github_Username)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Son_hyeong-oh_Github_username)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonhyeong-oh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonhyeong-oh)](https://github.com/anuraghazra/github-readme-stats)
 
 
