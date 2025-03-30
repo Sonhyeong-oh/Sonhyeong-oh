@@ -2,8 +2,10 @@
 
 # About Me
 :office: I aim to become AI for finance and business developer
+
 :school_satchel: Information & Statistics, Data Science, Kangwon National University(KNU) (2018 - present)
 
+<br/>
 
 # :wrench: Tech Stack
 :speech_balloon: Language
