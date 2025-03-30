@@ -1,1 +1,2 @@
 # ReadMe
+https://velog.io/@pjy707099/Github-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
