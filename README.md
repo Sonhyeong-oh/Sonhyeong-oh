@@ -13,7 +13,7 @@
 
 :hammer: Tools
 
-<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/rstudioide-75AADB?style=flat-square&logo=rsudioide&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/rstudio ide-75AADB?style=flat-square&logo=rsudio ide&logoColor=white"/>
 
 :clipboard: ETC
 
