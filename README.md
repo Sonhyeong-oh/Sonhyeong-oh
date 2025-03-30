@@ -1,5 +1,8 @@
-# ReadMe
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20my%20Github)
+
+# About Me
+:office: I aim to become AI for finance and business developer
+:school_satchel: Information & Statistics, Data Science, Kangwon National University(KNU) (2018 - present)
 
 
 # :wrench: Tech Stack
