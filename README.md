@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20my%20GitHub)
 
 # About Me
-:office: I aim to become AI security developer
+:office: I aim to become AI security (Adevesarial Attack Defense, Model Integrity and Reliability) developer
 
 :school_satchel: Information & Statistics, Data Science, Kangwon National University(KNU) (2018 - present)
 
