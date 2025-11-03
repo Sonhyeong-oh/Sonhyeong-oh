@@ -18,7 +18,7 @@
 
 :hammer: Tools
 
-<img src="https://img.shields.io/badge/VSCode-00A2FF.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" /> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-00A2FF.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" /> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-0046C4?style=flat-square&logo=Gemini&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-6147E8?style=flat-square&logo=Anthropic&logoColor=white"/>
 
 <br/>
 
