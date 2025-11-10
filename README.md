@@ -14,11 +14,11 @@
 
 :books: Library
 
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-FFCC00?style=flat-square&logo=ultralytics&logoColor=black"/>
 
 :hammer: Tools
 
-<img src="https://img.shields.io/badge/VSCode-00A2FF.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" /> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-0046C4?style=flat-square&logo=Gemini&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-6147E8?style=flat-square&logo=Anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-00A2FF.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" /> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-0046C4?style=flat-square&logo=Gemini&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-6147E8?style=flat-square&logo=Anthropic&logoColor=white"/>
 
 <br/>
 
